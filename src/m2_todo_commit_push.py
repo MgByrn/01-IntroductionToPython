@@ -1,6 +1,4 @@
 print('Hello, World')
-print('it is tuesday')
-print(3,607 + 34,227)
 ###############################################################################
 #
 #   This line is a COMMENT -- a note to the person reading this file.
@@ -69,7 +67,7 @@ print(3,607 + 34,227)
 #   the Run window to be sure that your string printed as expected.
 #
 ###############################################################################
-
+print('it is tuesday')
 ###############################################################################
 #
 # DONE: 4.
@@ -86,10 +84,10 @@ print(3,607 + 34,227)
 #   value is wrong.
 #
 ###############################################################################
-
+print(3607 + 34227)
 ###############################################################################
 #
-# TODO: 5.
+# DONE: 5.
 #   Look at the list of files in the Project window (to the left).  Note that
 #   this file (m2_todo_and_commit_push.py) now has a 'U' next to it.
 #
